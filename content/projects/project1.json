@@ -1,9 +1,9 @@
 {
+  "title": "Salesforce CRM Optimization",
+  "shortDescription": "Streamlined operational workflows by developing custom Lightning Web Components and complex Apex triggers, resulting in a 30% increase in team efficiency.",
   "priority": 1,
-  "title": "Color Contrast Collection",
-  "shortDescription": "Curated Background with Text colors contrast, help you to pick best contrast for your websites",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1645090814/color-contrast_n598kw.png",
-  "livePreview": "https://example.com/alpha",
-  "type": "Client Work 🙍‍♂️",
-  "siteAge": "1 month old"
+  "cover": "https://images.unsplash.com/photo-1555421689-d68471e88984?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "#",
+  "type": "Enterprise 🏢",
+  "siteAge": "2024"
 }

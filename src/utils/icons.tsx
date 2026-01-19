@@ -1,5 +1,6 @@
 import { FC, SVGProps } from 'react'
 
+import AngularIcon from '../assets/icons/angular.svg'
 import Earning from '../assets/icons/earning.svg'
 import ExpressjsIcon from '../assets/icons/express.svg'
 import JavaScriptIcon from '../assets/icons/javascript.svg'
@@ -8,6 +9,7 @@ import NestjsIcon from '../assets/icons/nest.svg'
 import NextjsIcon from '../assets/icons/nextjs.svg'
 import NodejsIcon from '../assets/icons/nodejs.svg'
 import ReactIcon from '../assets/icons/react.svg'
+import SalesforceIcon from '../assets/icons/salesforce.svg'
 import SocketIcon from '../assets/icons/socket.svg'
 import Star from '../assets/icons/star.svg'
 import TailwindCSS from '../assets/icons/tailwind-css.svg'
@@ -306,7 +308,9 @@ const PhoneIcon: FC<SVGProps<SVGSVGElement>> = (props) => {
   )
 }
 
+
 export {
+  AngularIcon,
   ArrowLeftIcon,
   ArrowRightIcon,
   BurgerIcon,
@@ -329,6 +333,7 @@ export {
   PhoneIcon,
   PreviewIcon,
   ReactIcon,
+  SalesforceIcon,
   SocketIcon,
   Star,
   StarIcon,
